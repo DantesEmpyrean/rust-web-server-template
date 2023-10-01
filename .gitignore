@@ -1,0 +1,15 @@
+
+/target
+Cargo.lock
+
+#ide
+.vscode/
+.idea/
+.vs/
+.DS_Store
+
+#env variables
+.env
+
+#documentation
+target/doc/
